@@ -1,1 +1,1 @@
-# users-api
+I followed the tutorials from the workshop 7 slides to create the server and write the endpoint. I had to make a couple adjustments because I'm using JavaScript instead of TypeScript. Overall, pretty straight forward.
